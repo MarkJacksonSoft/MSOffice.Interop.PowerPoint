@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
   <metadata>
     <id>MSOffice.Interop.PowerPoint</id>
-    <version>15.0.2</version>
+    <version>15.0.3</version>
     <title>Microsoft.Office.Interop.PowerPoint</title>
     <authors>Mark Jackson</authors>
     <owners></owners>
@@ -10,7 +10,7 @@
     <license type="expression">MIT</license>
     <icon>ms-office.png</icon>
     <readme>README.md</readme>
-    <projectUrl>https://github.com/MarkJacksonSoft/MSOfficeCore.Interop</projectUrl>
+    <projectUrl>https://github.com/MarkJacksonSoft/MSOffice.Interop.PowerPoint</projectUrl>
     <description>Microsoft Office.PowerPoint.Interop.dll Interop Assembly</description>
     <summary>This package wraps the publicly available Microsoft..Office.Interop.PowerPoint PIA for inclusion in as wide a range of .Net platforms as possible.</summary>
     <releaseNotes>Initial release</releaseNotes>

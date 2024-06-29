@@ -1,4 +1,4 @@
-﻿# MSOffice.Interop.PowerPoint
+﻿﻿# MSOffice.Interop.PowerPoint
 
 [![NuGet version](https://img.shields.io/nuget/v/MSOffice.Interop.PowerPoint)](https://www.nuget.org/packages/MSOffice.Interop.PowerPoint/)
 
